@@ -1,2 +1,1 @@
-# Katacoda-Notes
-Notes from Katacoda Lessons
+# Katacoda Notes
